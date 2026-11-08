@@ -1,0 +1,13 @@
+{
+  "name": "ISAIASCO - Comunicação Interna & Operações E2EE",
+  "description": "Plataforma corporativa de alta performance com mensagens instantâneas E2EE, áudio, videoconferência, rastreamento de equipes de campo, autenticação biométrica/token e relatórios semanais de produtividade.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation",
+    "display-capture"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
